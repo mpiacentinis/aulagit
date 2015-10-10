@@ -2,6 +2,8 @@
 
 ### Primeiro Release 0.1.0
 
+### Segundo Release 0.1.1 - 10/10
+
 ##Comandos utilizados
 
 mkdir aulagit

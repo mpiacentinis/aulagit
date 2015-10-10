@@ -1,5 +1,7 @@
 #Arquivo Criado para Demonstrar o Git 
 
+### Primeiro Release 0.1.0
+
 ##Comandos utilizados
 
 mkdir aulagit
